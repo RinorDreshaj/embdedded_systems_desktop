@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\bin\Debug\EmbeddedProjectControl.exe
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\bin\Debug\EmbeddedProjectControl.pdb
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.Properties.Resources.resources
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.exe
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.pdb
+C:\Users\PC\source\repos\EmbeddedProjectControl\EmbeddedProjectControl\obj\Debug\EmbeddedProjectControl.frmMain.resources
